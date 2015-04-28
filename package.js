@@ -1,5 +1,5 @@
 Package.describe({
-    summary: "Random Color (v0.1.1), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js."
+    summary: "Random Color (v0.2.0), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js."
 });
 
 Package.on_use(function (api) {

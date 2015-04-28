@@ -1,7 +1,7 @@
 random-color
 ======================
 
-Random Color (v0.1.1), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js.
+Random Color (v0.2.0), lib for generating attractive random colors, from David Merfield, https://github.com/davidmerfield/randomColor, packaged for Meteor.js.
 
 For generating attractive random colors. See the results on [the original demo](http://llllll.li/randomColor/) of David Merfield.
 
