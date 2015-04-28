@@ -11,7 +11,7 @@ To install
 ----------
 
 ```sh
-$ mrt add random-color
+$ meteor add kburts:random-color
 ```
 
 Examples
@@ -49,11 +49,4 @@ randomColor({
 UI Template Helpers
 ------
 
-I added also a template helper. It can be called with all options available.
-
-```
-{{ randomColor hue='blue' }}
-```
-
-
-Provided by [Philipp & Heé](http://blog.philippundhee.ch/)
+Removed, check out https://github.com/AndrasPH/meteor-random-color if needed.
